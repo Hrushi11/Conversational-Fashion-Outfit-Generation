@@ -1,0 +1,123 @@
+@media screen and (max-width: 1000px){
+    /* .searchbar{
+        width: 20vw;
+    } */
+    .body{
+        font-size: 10px !important;
+    }
+    .searchbar .in{
+        width: 23vw;
+    }
+    .nav2{
+        padding: 0 5px;
+        height:fit-content;
+        flex-wrap: wrap;
+        justify-content: center;
+        /* align-items: center; */
+    }
+    .login{
+        width: 40px;
+    }
+    .foot{
+        padding: 0px 0 10px 10px;
+        height: 350px;
+        /* flex-direction: row; */
+        /* font-size: 5px; */
+    }
+    .footbox{
+        padding: 0 5px;
+    }
+    .dropdownA1{
+        width: 20vw;
+    }
+    .dropdownA1 .dropdownA2{
+        width: 20vw;
+        left:22vw;
+    }
+    .foot2{
+        height: 20px !important;
+        flex-wrap: wrap;
+        align-items: flex-start;
+        padding: 10px 0;
+    }
+    .foot2 a{
+        font-size: 8px;
+    }
+    .boxb p{
+        font-size: 2vw !important;
+    }
+    /* .boxa{
+        height:200px;
+    }
+    .boxc img{
+        padding: 0 !;
+    } */
+    .viewAll p{
+        font-size: 10px !important;
+    }
+    .viewAll{
+        height: 30px;
+        width: 10vw;
+    }
+    .boxb img{
+        margin-top: 100px!important;
+    }
+
+}
+@media screen and (max-width: 700px){
+    nav{
+        height: 120px;
+        flex-wrap: wrap;
+        justify-content: flex-start;
+    }
+    .searchbar .in{
+        width: 40vw;
+        overflow: hidden;
+    }
+    .searchbar{
+        width: 50vw;
+        margin: 10px 20px 0 100px;
+    }
+    .login{
+        width: 60px;
+    }
+    .slider{
+        height: 150px;
+    }
+    .nav .prev{
+        top: 30px;
+    }
+    .nav .next{
+        top: 30px;
+    }
+    .foot{
+        padding: 0px 0 10px 10px;
+        height: 250px;
+        /* flex-direction: row; */
+        /* font-size: 5px; */
+        font-size: 7px;
+    }
+    .footTitle{
+        font-size: 10px;
+    }
+    .footboxs{
+        padding: 0 0 0 10px;
+        margin: 0 0 20px 0 ;
+    }
+}
+@media screen and (max-width: 460px){
+    nav{
+        height: 150px;
+    }
+    .searchbar .in{
+        width: 30vw;
+        overflow: hidden;
+    }
+    .searchbar{
+        width: 50vw;
+        margin: 10px 2px 0 10px;
+    }
+    .login{
+        margin: 5px;
+    }
+}

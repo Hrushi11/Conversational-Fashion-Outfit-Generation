@@ -1,0 +1,106 @@
+*{
+    padding:0px;
+    margin:0px;
+    box-sizing:border-box;
+    
+    
+  }
+  
+  nav .navbar-header a{
+    font-family:'Raleway',sans-serif;
+    letter-spacing:1px;
+  }
+  nav .navbar-header a,ul li a{
+    color:#fff;
+    
+  }
+  nav .navbar-header button .fa{
+    color:#fff;
+    border:1px solid #fff;
+    border-radius:5px;
+    padding:4px 10px;
+    font-size:1.5em;
+    position:absolute;
+    top:-0.5px;
+    left:-30px;
+  }
+  
+  .glyphicon-search{
+    color:#2874f0;
+  }
+  
+  
+  form{
+    position:relative;
+    top:10px;
+  }
+  
+  .menu{
+    border-bottom:1px solid rgba(0,0,0,0.1);
+  }
+  section{
+    position:relative;
+    top:4.5em;
+  }
+  section .container-fluid .thumbnail .caption .buttons{
+    margin:1px;
+  }
+  
+  section .desc h5 .glyphicon{
+    color:#5cb85c;
+  }
+  section .desc .breadcrumb{
+    padding-left:0;
+  }
+  
+  section .desc button:hover{
+    background-color:#fff;
+    border:1px solid #2874f0;
+    color:#2874f0;
+  }
+  
+  footer{
+    position:relative;
+    top:15em;
+    color:#565656;
+    width:100%;
+    margin-bottom:10px;
+  }
+  footer .container .col-sm-4 ul li a{
+    color:#565656;
+  }
+  footer .container .col-sm-4 ul li a:hover{
+    text-decoration:none;
+  }
+  
+  footer .container-fluid span{
+    font-size:30px;
+    position:absolute;
+    top:25%;
+    left:12%;
+  }
+  footer .container-fluid h3{
+    font-size:20px;
+    margin-left:30px;
+  }
+  
+  footer .contact button{
+    background-color:#565656;
+    color:#fff;
+  }
+  @media (min-width:863px){
+    footer .container-fluid span{
+    font-size:40px;
+    position:absolute;
+    top:10%;
+    
+  }
+  footer .container-fluid h3{
+   font-size:1.9rem; 
+    
+    width:70%;
+    position:relative;
+    left:15%;
+    top:-10px;
+  } 
+  }
