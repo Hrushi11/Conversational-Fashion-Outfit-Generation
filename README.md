@@ -31,6 +31,8 @@ The Conversational Fashion Outfit Generator powered by GenAI revolutionizes the 
 ![IMG](https://github.com/Hrushi11/Virtual-X/blob/main/assets/3.png?raw=true)
 ![IMG](https://github.com/Hrushi11/Virtual-X/blob/main/assets/22.png?raw=true)
 
+#### More Results at: [Results](https://github.com/Hrushi11/Virtual-X/tree/main/Results)
+
 ## Conversation
 
 We allow try on the go feature which allows user to change the designs of there clothes smoothly and effortlessly.
