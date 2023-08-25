@@ -17,6 +17,20 @@ The Conversational Fashion Outfit Generator powered by GenAI revolutionizes the 
 
 ![Architecture Diagram](https://github.com/Hrushi11/Virtual-X/blob/main/assets/architecture_final.drawio.png?raw=true)
 
+## Results
+
+![IMG](https://github.com/Hrushi11/Virtual-X/blob/main/Results/1.png?raw=true)
+![IMG](https://github.com/Hrushi11/Virtual-X/blob/main/Results/19.png?raw=true)
+![IMG](https://github.com/Hrushi11/Virtual-X/blob/main/Results/7.png?raw=true)
+![IMG](https://github.com/Hrushi11/Virtual-X/blob/main/Results/8.png?raw=true)
+![IMG](https://github.com/Hrushi11/Virtual-X/blob/main/Results/12.png?raw=true)
+![IMG](https://github.com/Hrushi11/Virtual-X/blob/main/Results/14.png?raw=true)
+![IMG](https://github.com/Hrushi11/Virtual-X/blob/main/Results/20.png?raw=true)
+![IMG](https://github.com/Hrushi11/Virtual-X/blob/main/Results/17.png?raw=true)
+![IMG](https://github.com/Hrushi11/Virtual-X/blob/main/Results/18.png?raw=true)
+![IMG](https://github.com/Hrushi11/Virtual-X/blob/main/Results/21.png?raw=true)
+![IMG](https://github.com/Hrushi11/Virtual-X/blob/main/Results/19.png?raw=true)
+
 ## Conversation
 
 We allow try on the go feature which allows user to change the designs of there clothes smoothly and effortlessly.
