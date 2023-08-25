@@ -19,7 +19,17 @@ The Conversational Fashion Outfit Generator powered by GenAI revolutionizes the 
 
 ## Results
 
-![Image 1](https://github.com/Hrushi11/Virtual-X/blob/main/Results/1.png?raw=true) | ![Image 2](https://github.com/Hrushi11/Virtual-X/blob/main/Results/1.png?raw=true)
+![IMG](https://github.com/Hrushi11/Virtual-X/blob/main/Results/1.png?raw=true)
+![IMG](https://github.com/Hrushi11/Virtual-X/blob/main/Results/19.png?raw=true)
+![IMG](https://github.com/Hrushi11/Virtual-X/blob/main/Results/7.png?raw=true)
+![IMG](https://github.com/Hrushi11/Virtual-X/blob/main/Results/8.png?raw=true)
+![IMG](https://github.com/Hrushi11/Virtual-X/blob/main/Results/12.png?raw=true)
+![IMG](https://github.com/Hrushi11/Virtual-X/blob/main/Results/14.png?raw=true)
+![IMG](https://github.com/Hrushi11/Virtual-X/blob/main/Results/20.png?raw=true)
+![IMG](https://github.com/Hrushi11/Virtual-X/blob/main/Results/17.png?raw=true)
+![IMG](https://github.com/Hrushi11/Virtual-X/blob/main/Results/18.png?raw=true)
+![IMG](https://github.com/Hrushi11/Virtual-X/blob/main/Results/21.png?raw=true)
+![IMG](https://github.com/Hrushi11/Virtual-X/blob/main/Results/19.png?raw=true)
 
 ## Conversation
 
