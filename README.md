@@ -11,6 +11,12 @@ The "Conversational Fashion Outfit Generator" is a cutting-edge initiative that 
 Our solution introduces a natural and interactive conversation-based interface that enables users to engage with the system using plain language. We've integrated OpenAI's GPT-4, a state-of-the-art Large Language Model, to facilitate intelligent conversations. Users can effortlessly communicate their preferences, questions, and feedback, mimicking a human-like interaction.
 
 
+
+https://github.com/Hrushi11/Virtual-X/assets/73577192/887f7b21-1171-4ab2-8a74-936cff27f442
+
+
+
+
 ## Architecture
 
 The Conversational Fashion Outfit Generator powered by GenAI revolutionizes the way users discover and engage with fashion products. It bridges the gap between technology and fashion, providing a seamless blend of AI-driven personalization, real-time trends, and interactive experiences. Users are empowered to make confident fashion choices, explore their preferences, and stay up-to-date with the latest fashion trends. The project not only enhances the shopping experience but also represents a remarkable convergence of AI capabilities and the fashion industry.
