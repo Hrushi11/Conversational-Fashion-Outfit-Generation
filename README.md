@@ -25,13 +25,14 @@ The Conversational Fashion Outfit Generator powered by GenAI revolutionizes the 
 
 ## Results
 
+#### More Results at: [Results](https://github.com/Hrushi11/Virtual-X/tree/main/Results)
+
 ![IMG](https://github.com/Hrushi11/Virtual-X/blob/main/assets/3_dr.png?raw=true)
 ![IMG](https://github.com/Hrushi11/Virtual-X/blob/main/assets/rock.png?raw=true)
 ![IMG](https://github.com/Hrushi11/Virtual-X/blob/main/assets/saree.png?raw=true)
 ![IMG](https://github.com/Hrushi11/Virtual-X/blob/main/assets/3.png?raw=true)
 ![IMG](https://github.com/Hrushi11/Virtual-X/blob/main/assets/22.png?raw=true)
 
-#### More Results at: [Results](https://github.com/Hrushi11/Virtual-X/tree/main/Results)
 
 ## Conversation
 
