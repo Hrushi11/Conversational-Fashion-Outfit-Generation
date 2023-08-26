@@ -21,7 +21,7 @@ https://github.com/Hrushi11/Virtual-X/assets/73577192/887f7b21-1171-4ab2-8a74-93
 
 The Conversational Fashion Outfit Generator powered by GenAI revolutionizes the way users discover and engage with fashion products. It bridges the gap between technology and fashion, providing a seamless blend of AI-driven personalization, real-time trends, and interactive experiences. Users are empowered to make confident fashion choices, explore their preferences, and stay up-to-date with the latest fashion trends. The project not only enhances the shopping experience but also represents a remarkable convergence of AI capabilities and the fashion industry.
 
-![Architecture Diagram](https://github.com/Hrushi11/Virtual-X/blob/main/assets/architecture_final.drawio.png?raw=true)
+![Architecture Diagram](https://raw.githubusercontent.com/Hrushi11/Virtual-X/main/assets/architecture_final.drawio.png)
 
 ## Results
 
