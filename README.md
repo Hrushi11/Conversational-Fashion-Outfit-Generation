@@ -5,7 +5,7 @@ The "Conversational Fashion Outfit Generator" is a cutting-edge initiative that 
 
 ![IMG](https://github.com/Hrushi11/Virtual-X/blob/main/assets/Flow.drawio.png?raw=true)
 
-
+ 
 ## Demo
 
 Our solution introduces a natural and interactive conversation-based interface that enables users to engage with the system using plain language. We've integrated OpenAI's GPT-4, a state-of-the-art Large Language Model, to facilitate intelligent conversations. Users can effortlessly communicate their preferences, questions, and feedback, mimicking a human-like interaction.
